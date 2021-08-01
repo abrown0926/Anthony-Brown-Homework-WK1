@@ -9,5 +9,6 @@ Changes include (HTML):
 6. Replaced the <div> tag line 74 with <footer> tag.
   
 Changes to CSS:
-1. 
+1. Combined lines 137-189 into 3 sections of code.
+2. Combined lines 89-135 into 3 sections of code.
 
